@@ -1,1 +1,1 @@
-# My repository
+# This repository is empty
